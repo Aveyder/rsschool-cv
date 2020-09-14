@@ -1,1 +1,1 @@
-https://aveyder.github.io/rsschool-cv/cv
+https://aveyder.github.io/rsschool-cv/
